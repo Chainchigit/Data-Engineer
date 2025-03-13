@@ -1,3 +1,4 @@
+!python text_sanitizer.py input.txt --target output.json
 import argparse
 import string
 import json
