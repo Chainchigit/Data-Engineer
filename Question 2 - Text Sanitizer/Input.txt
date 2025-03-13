@@ -1,0 +1,21 @@
+Hello,
+This is a sample    text file.
+	It contains multiple lines, different spacing,
+and	some tabs.
+
+This should be sanitized correctly!
+Let's see how well it works.
+
+Additional lines are added to test the functionality.
+	Tabs should be replaced with underscores.
+Line breaks should remain as they are.
+
+This is a longer paragraph to check how the text sanitizer
+handles large chunks of text. It should properly process and
+clean all input data efficiently, regardless of size.
+
+Another test line with multiple words and spaces     to see 
+how well extra spaces are handled.
+
+Finally, some numbers and symbols: 1234567890 !@#$%^&*()
+
