@@ -40,7 +40,6 @@ This repository contains solutions for the **Data Engineer Take-Home Assignment*
 ### **Deliverables:**
 - **`text_sanitizer.py`** - Python script implementing text sanitization.
 - **`sample_input.txt`** - Example input text file.
-- **`output.json`** - Example output (optional).
 
 ---
 
