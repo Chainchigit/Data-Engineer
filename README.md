@@ -1,4 +1,4 @@
-# Data Engineer - Take Home Assignment
+# Data Engineer - Interview Assignment
 
 ##  Overview
 This repository contains solutions for the **Data Engineer Take-Home Assignment**, covering three main tasks:
