@@ -1,6 +1,6 @@
 # Data Engineer - Take Home Assignment
 
-## 📌 Overview
+##  Overview
 This repository contains solutions for the **Data Engineer Take-Home Assignment**, covering three main tasks:
 1. **Data Pipeline Design** - Designing a scalable ETL pipeline using GCP.
 2. **Text Sanitizer** - Implementing a CLI-based text processing tool in Python.
@@ -8,7 +8,7 @@ This repository contains solutions for the **Data Engineer Take-Home Assignment*
 
 ---
 
-## 🚀 **1. Data Pipeline Design**
+##  **1. Data Pipeline Design**
 ### **Objective:**
 - Design a **high-level daily batch ingestion pipeline** from **MongoDB** (semi-structured data) to **BigQuery**.
 - Ensure **scalability, data quality, and exception handling**.
@@ -43,7 +43,7 @@ This repository contains solutions for the **Data Engineer Take-Home Assignment*
 
 ---
 
-## 📊 **3. SQL Query - Top 2 Sales per Product Class**
+##  **3. SQL Query - Top 2 Sales per Product Class**
 ### **Objective:**
 - Write an **SQL query** to extract **top 2 product sales per class**.
 - Order by **product class, sales value**, and **quantity (tie-breaker)**.
