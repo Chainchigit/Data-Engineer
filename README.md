@@ -52,5 +52,9 @@ This repository contains solutions for the **Data Engineer Take-Home Assignment*
 - **Use CTEs (`WITH` clause)** to aggregate sales data.
 - **Apply `RANK()`** to rank products within each class.
 - **Filter top 2 products per class (`WHERE rank <= 2`)**.
+---
+##  Contact
 
+- **GitHub**: [Chainchigit](https://github.com/Chainchigit/Data-Engineer)
+- **Email**: c.chainchi@gmail.com
 
