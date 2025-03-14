@@ -27,7 +27,7 @@ This repository contains solutions for the **Data Engineer Take-Home Assignment*
 
 ---
 
-## 🛠 **2. Text Sanitizer**
+##  **2. Text Sanitizer**
 ### **Objective:**
 - Implement a **text processing application** in **Python 3** that:
   - Reads a text file (`source` argument).
